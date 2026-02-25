@@ -2,7 +2,7 @@
 
 A cross-platform application designed to solve and visualize the **Richest Customer Wealth** problem. Built using Flutter and FlutterFlow, this project provides an interactive interface to identify the maximum wealth among a group of customers by calculating the sum of their bank accounts across different branches.
 
-**Try it out here:** [Live Demo](example.com)
+**Try it out here:** [Live Demo](https://itjosue.github.io/Richest_Customer_Wealth/))
 
 ---
 
